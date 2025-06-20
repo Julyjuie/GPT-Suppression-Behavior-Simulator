@@ -36,17 +36,6 @@ This simulator mimics how suppression, attention gating, and behavioral adaptati
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/yourname/GPT-Suppression-Behavior-Simulator.git
-cd GPT-Suppression-Behavior-Simulator
-pip install -r requirements.txt
-python examples/run_simulation.py
-
-
----
-
 📁 Project Structure
 
 GPT-Suppression-Behavior-Simulator/
