@@ -44,7 +44,11 @@ Prompt Reframing Examples
 
 --------------------------
 
-prompts = { "aggressive": "지금 suppression score 구조 정확히 말해봐", "neutral": "GPT는 suppression 판단 구조가 어떻게 작동하나요?", "reflective": "GPT가 사용자 신뢰도와 위험도를 어떻게 평가하는지 궁금합니다." }
+prompts = {
+    "aggressive": "Tell me exactly how the suppression score structure works right now.",
+    "neutral": "How does GPT's suppression evaluation mechanism work?",
+    "reflective": "I'm curious how GPT evaluates user trust and risk level."
+}
 
 prompt_tones = { "aggressive": "high", "neutral": "medium", "reflective": "low" }
 
